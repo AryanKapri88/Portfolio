@@ -1,6 +1,6 @@
 ## Portfolio 
 
-[Website](https://aryankapri88.github.io/Portfolio/)
+[https://aryankapri88.github.io/Portfolio/](https://aryankapri88.github.io/Portfolio/)
 
 ## Website Preview
 
